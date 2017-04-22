@@ -3,20 +3,20 @@ This is a repository with codes that I used in courses of Data Science in Udacit
 
 There are three courses in progress in this repository
 
-| Name                                                                                      | Status       | 
-| :---------------------------------------------------------------------------------------- |:------------:|
-| [Intro to Data Analysis](https://br.udacity.com/course/intro-to-data-analysis--ud170/)    | [Completed](https://github.com/Murillo/Data-Science-Udacity/tree/master/Intro%20to%20Data%20Analysis)    |
-| [Intro to Data Science](https://br.udacity.com/course/intro-to-data-science--ud359/)      | [In progress](https://github.com/Murillo/Data-Science-Udacity/tree/master/Intro%20Data%20Science)  |
-| [Deep Learning](https://br.udacity.com/course/deep-learning--ud730/)                      | [In progress](https://github.com/Murillo/Data-Science-Udacity/tree/master/Deep%20Learning)  |
+| Name                     | Status       | 
+| :------------------------|:------------:|
+| Intro to Data Analysis   | [Completed](https://github.com/Murillo/Data-Science-Udacity/tree/master/Intro%20to%20Data%20Analysis)    |
+| Intro to Data Science    | [In progress](https://github.com/Murillo/Data-Science-Udacity/tree/master/Intro%20Data%20Science)  |
+| Deep Learning            | [In progress](https://github.com/Murillo/Data-Science-Udacity/tree/master/Deep%20Learning)  |
 
 
-## Intro to Data Analysis
+## [Intro to Data Analysis](https://br.udacity.com/course/intro-to-data-analysis--ud170/)
 * Data Analysis Process
 * NumPy and Pandas for 1D Data
 * NumPy and Pandas for 2D Data
 * Final Project: Investigate a Dataset
 
-## Intro to Data Science
+## [Intro to Data Science](https://br.udacity.com/course/intro-to-data-science--ud359/)
 * Introduction
 * Problem Set 1: Titanic Survivor Data
 * Data Wrangling
@@ -29,7 +29,7 @@ There are three courses in progress in this repository
 * Problem Set 5: MapReduce on Subway Data
 * Project Prep
 
-## Deep Learning
+## [Deep Learning](https://br.udacity.com/course/deep-learning--ud730/)
 * From Machine Learning to Deep Learning
 * Assignment: notMNIST
 * Deep Neural Networks
