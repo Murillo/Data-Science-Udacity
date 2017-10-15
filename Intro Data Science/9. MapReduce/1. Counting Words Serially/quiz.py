@@ -3,8 +3,8 @@ import logging
 import sys
 import string
 
-# from util import logfile
-# logging.basicConfig(filename=logfile, format='%(message)s', level=logging.INFO, filemode='w')
+from util import logfile
+logging.basicConfig(filename=logfile, format='%(message)s', level=logging.INFO, filemode='w')
 
 def word_count():
     # For this exercise, write a program that serially counts the number of occurrences
